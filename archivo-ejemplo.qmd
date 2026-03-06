@@ -1,0 +1,4 @@
+#arhichivo ejemplo para versionamiento
+
+ git config --global user.email "echandia@udec.cl"
+  git config --global user.name "echandia"
